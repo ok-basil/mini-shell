@@ -1,1 +1,0 @@
-# This repository contains code for a simple unix shell in C
